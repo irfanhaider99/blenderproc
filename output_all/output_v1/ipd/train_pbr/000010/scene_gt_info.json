@@ -1,0 +1,3 @@
+{
+  "0": [{"bbox_obj": [207, 225, 81, 43], "bbox_visib": [207, 225, 81, 43], "px_count_all": 1323, "px_count_valid": 1323, "px_count_visib": 1323, "visib_fract": 1.0}, {"bbox_obj": [-1, -1, -1, -1], "bbox_visib": [-1, -1, -1, -1], "px_count_all": 439, "px_count_valid": 0, "px_count_visib": 0, "visib_fract": 0.0}, {"bbox_obj": [-1, -1, -1, -1], "bbox_visib": [-1, -1, -1, -1], "px_count_all": 732, "px_count_valid": 0, "px_count_visib": 0, "visib_fract": 0.0}]
+}

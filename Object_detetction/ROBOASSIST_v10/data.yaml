@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+#test: ../test/images
+
+nc: 1
+names: ['obj00']
+
+roboflow:
+  workspace: irfan99
+  project: roboassist-2
+  version: 10
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/irfan99/roboassist-2/dataset/10

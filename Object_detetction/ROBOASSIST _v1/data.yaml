@@ -1,0 +1,7 @@
+train: /data/BlenderProc1/Object_detetction/ROBOASSIST 2.v1i.yolov5pytorch/train/images
+val: /data/BlenderProc1/Object_detetction/ROBOASSIST 2.v1i.yolov5pytorch/valid/images
+test: /data/BlenderProc1/Object_detetction/ROBOASSIST 2.v1i.yolov5pytorch/test/images
+
+nc: 1
+names: ['obj00']
+

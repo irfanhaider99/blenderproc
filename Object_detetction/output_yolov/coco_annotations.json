@@ -1,0 +1,203 @@
+{
+    "images": [
+        {
+            "id": 0,
+            "file_name": "000000.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 1,
+            "file_name": "000001.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 2,
+            "file_name": "000002.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 3,
+            "file_name": "000003.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 4,
+            "file_name": "000004.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 5,
+            "file_name": "000005.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 6,
+            "file_name": "000006.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 7,
+            "file_name": "000007.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 8,
+            "file_name": "000008.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 9,
+            "file_name": "000009.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 10,
+            "file_name": "000010.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 11,
+            "file_name": "000011.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 12,
+            "file_name": "000012.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 13,
+            "file_name": "000013.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 14,
+            "file_name": "000014.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 15,
+            "file_name": "000015.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 16,
+            "file_name": "000016.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 17,
+            "file_name": "000017.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 18,
+            "file_name": "000018.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 19,
+            "file_name": "000019.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 20,
+            "file_name": "000020.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 21,
+            "file_name": "000021.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 22,
+            "file_name": "000022.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 23,
+            "file_name": "000023.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 24,
+            "file_name": "000024.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 25,
+            "file_name": "000025.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 26,
+            "file_name": "000026.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 27,
+            "file_name": "000027.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 28,
+            "file_name": "000028.jpg",
+            "height": 512,
+            "width": 512
+        },
+        {
+            "id": 29,
+            "file_name": "000029.jpg",
+            "height": 512,
+            "width": 512
+        }
+    ],
+    "annotations": [],
+    "categories": [
+        {
+            "id": 3,
+            "name": "obj_000003"
+        },
+        {
+            "id": 1,
+            "name": "obj_000001"
+        },
+        {
+            "id": 2,
+            "name": "obj_000002"
+        },
+        {
+            "id": 0,
+            "name": "obj_000000"
+        }
+    ]
+}

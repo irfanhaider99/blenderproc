@@ -1,0 +1,4 @@
+{
+  "0": [{"bbox_obj": [199, 206, 118, 92], "bbox_visib": [199, 206, 118, 92], "px_count_all": 4849, "px_count_valid": 4849, "px_count_visib": 4849, "visib_fract": 1.0}],
+  "1": [{"bbox_obj": [214, 227, 77, 58], "bbox_visib": [214, 227, 77, 58], "px_count_all": 2901, "px_count_valid": 2901, "px_count_visib": 2901, "visib_fract": 1.0}]
+}

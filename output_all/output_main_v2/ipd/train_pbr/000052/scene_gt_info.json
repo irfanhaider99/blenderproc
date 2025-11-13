@@ -1,0 +1,3 @@
+{
+  "0": [{"bbox_obj": [902, 443, 231, 176], "bbox_visib": [902, 443, 231, 176], "px_count_all": 7662, "px_count_valid": 7662, "px_count_visib": 7430, "visib_fract": 0.9697206995562516}, {"bbox_obj": [890, 461, 128, 297], "bbox_visib": [890, 461, 121, 268], "px_count_all": 9347, "px_count_valid": 9347, "px_count_visib": 8476, "visib_fract": 0.9068150208623088}, {"bbox_obj": [784, 416, 297, 56], "bbox_visib": [784, 416, 297, 56], "px_count_all": 11742, "px_count_valid": 11742, "px_count_visib": 11032, "visib_fract": 0.9395332992675864}, {"bbox_obj": [405, 630, 83, 363], "bbox_visib": [405, 630, 83, 363], "px_count_all": 13097, "px_count_valid": 13097, "px_count_visib": 13097, "visib_fract": 1.0}]
+}

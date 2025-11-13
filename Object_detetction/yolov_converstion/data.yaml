@@ -1,0 +1,5 @@
+train: /data/BlenderProc1/yolov_converstion/images/train
+val: /data/BlenderProc1/yolov_converstion/images/val
+test: /data/BlenderProc1/yolov_converstion/images/test
+nc: 3
+names: ['obj_000000', 'obj_000001', 'obj_000002']

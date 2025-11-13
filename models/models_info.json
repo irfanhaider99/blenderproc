@@ -1,0 +1,47 @@
+{
+    "0": {
+        "diameter": 83.76992784099977,
+        "min_x": -15.0,
+        "min_y": -130.5,
+        "min_z": -494.6199951171875,
+        "size_x": 30.0,
+        "size_y": 51.5,
+        "size_z": 76.3599853515625,
+        "symmetries_continuous": [],
+        "symmetries_discrete": []
+    },
+    "1": {
+        "diameter": 70.0,
+        "min_x": -10.0,
+        "min_y": -50.0,
+        "min_z": -400.0,
+        "size_x": 20.0,
+        "size_y": 40.0,
+        "size_z": 60.0,
+        "symmetries_continuous": [],
+        "symmetries_discrete": []
+    },
+    "2": {
+        "diameter": 90.0,
+        "min_x": -20.0,
+        "min_y": -60.0,
+        "min_z": -420.0,
+        "size_x": 40.0,
+        "size_y": 50.0,
+        "size_z": 70.0,
+        "symmetries_continuous": [],
+        "symmetries_discrete": []
+    },
+    "3": {
+        "diameter": 50.0,
+        "min_x": -5.0,
+        "min_y": -20.0,
+        "min_z": -380.0,
+        "size_x": 10.0,
+        "size_y": 30.0,
+        "size_z": 40.0,
+        "symmetries_continuous": [],
+        "symmetries_discrete": []
+    }
+}
+

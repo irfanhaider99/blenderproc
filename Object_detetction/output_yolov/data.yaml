@@ -1,0 +1,12 @@
+{
+    train: train/images,
+    val: val/images,
+    test: test/images,
+    nc: 4,
+    names: [
+        obj_000000,
+        obj_000001,
+        obj_000002,
+        obj_000003
+    ]
+}
