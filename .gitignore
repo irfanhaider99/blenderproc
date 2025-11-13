@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.zip
+*.blend1
+*.log
+*.npy
+*.avi
+*.mp4
+output*/
+runs/
+*.egg-info/
